@@ -7,10 +7,10 @@ This project worked on a dataset that contains an airline passenger satisfaction
 
 
 # Methodology
- 1- Loading the dataset.
- 2- EDA (cleaning and visualizing the data).
- 2- Building different classification Models.
- 3- choosing the model based on given best accuracy to prediction.
+ 1. Loading the dataset.
+ 2. EDA (cleaning and visualizing the data).
+ 3. Building different classification Models.
+ 4. choosing the model based on given best accuracy to prediction.
  
 
 
